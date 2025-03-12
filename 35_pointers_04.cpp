@@ -16,7 +16,7 @@ int main()
 
     change_value(&number);
 
-    cout << "Number (after): " << number;
+    cout << "Number (after): " << number << endl;
 
     return 0;
 }
