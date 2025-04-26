@@ -4,9 +4,9 @@ using namespace std;
 int main()
 {
 
-    int marks = 69;
+    int marks = 1337;
 
-    string result = (marks >= 13) ? "pass" : "fail";
+    string result = (marks >= 69) ? "pass" : "fail";
 
     cout << result;
 
